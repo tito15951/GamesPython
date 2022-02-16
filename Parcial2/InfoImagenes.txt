@@ -1,0 +1,12 @@
+Tamaño 
+naveizq: 40x40
+Jefe1:50x50
+Jefe2:al40xan60
+Jefe3:al60xan90
+Personaje:al40xan50
+Meteoritos:35x35
+Disparo1:al15xan20
+Disparo2:al10xan20
+Disparo3:al25xan30
+DisparosEnemigos:30x30
+Bonus:30x30

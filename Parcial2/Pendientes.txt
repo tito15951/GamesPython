@@ -1,0 +1,3 @@
+implementar cambio de mapas
+Agregar musica
+Hacer que el fondo se mueva
